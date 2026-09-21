@@ -6,8 +6,11 @@ every folder in this repo is one lesson: a few short TypeScript files you can ru
 
 ## lessons
 
-the first lesson is on the way.
+| # | lesson | what you get | how it calls crawlbrulee | article |
+| --- | --- | --- | --- | --- |
+| 01 | [a product page on saturn.de](./01-saturn-product-page) | name, price, rating, variants, offers, image links and a screenshot of one product | the [js/ts sdk](https://www.npmjs.com/package/@crawlbrulee/sdk) | [how to scrape ecommerce product data](https://crawlbrulee.com/blog/scrape-ecommerce-product-data) |
 
+more lessons are on the way.
 
 ## before you start
 
