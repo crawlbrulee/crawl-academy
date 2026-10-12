@@ -9,6 +9,7 @@ every folder in this repo is one lesson: a few short TypeScript files you can ru
 | # | lesson | what you get | how it calls crawlbrulee | article |
 | --- | --- | --- | --- | --- |
 | 01 | [a product page on saturn.de](./01-saturn-product-page) | name, price, rating, variants, offers, image links and a screenshot of one product | the [js/ts sdk](https://www.npmjs.com/package/@crawlbrulee/sdk) | [how to scrape ecommerce product data](https://crawlbrulee.com/blog/scrape-ecommerce-product-data) |
+| 02 | [our blog as markdown](./02-crawlbrulee-blog-markdown) | up to 10 posts from the crawlbrulee blog, each as a markdown file | plain `fetch`, no dependencies | [how to scrape blog posts into markdown](https://crawlbrulee.com/blog/scrape-blog-posts-to-markdown) |
 
 more lessons are on the way.
 
