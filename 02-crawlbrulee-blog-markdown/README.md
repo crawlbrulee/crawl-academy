@@ -12,6 +12,8 @@ output/
     ├── data-privacy-reasons-to-switch-web-scraping-provider.md
     ├── do-website-terms-bind-a-scraper.md
     ├── is-web-scraping-legal.md
+    ├── scrape-blog-posts-to-markdown.md
+    ├── scrape-ecommerce-product-data.md
     └── zero-data-retention.md
 ```
 
@@ -30,7 +32,7 @@ url: "https://crawlbrulee.com/blog/zero-data-retention"
 zero data retention is now live in …
 ```
 
-`output/posts.json` lists the same posts with the same facts and the name of each file. (files from 14 October 2026.)
+`output/posts.json` lists the same posts with the same facts and the name of each file. (files from 12 October 2026.)
 
 ## run it
 
@@ -180,7 +182,7 @@ most markdown tools read this block, and so do AI agents: when one quotes a post
 | the map (one sitemap read) | 1 |
 | each post | 1 |
 
-a run costs 1 credit for the map plus 1 per post, so 11 credits at most. when we wrote this, the blog had 5 posts: 6 credits. the free plan has 750 credits a month. [how credits work](https://crawlbrulee.com/docs/credits-and-pricing).
+a run costs 1 credit for the map plus 1 per post, so 11 credits at most. when we wrote this, the blog had 7 posts, this one's article included: 8 credits. the free plan has 750 credits a month. [how credits work](https://crawlbrulee.com/docs/credits-and-pricing).
 
 ## make it yours
 
