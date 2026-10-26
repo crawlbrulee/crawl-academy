@@ -46,7 +46,7 @@ this is general guidance, not legal advice.
 
 crawlbrulee is EU-native web scraping for AI agents and developers.
 
-- **built in the EU.** [processing and long-term storage run on EU servers](https://crawlbrulee.com/personal-data).
+- **built in the EU.** [processing and long-term storage run on EU servers](https://crawlbrulee.com/gdpr-compliant-web-scraping).
 - **output made for models.** clean markdown, named values read by css selector, screenshots and page metadata.
 - **the hard parts, handled.** headless Chrome when a page needs it, rotating proxies with country selection, automatic retries, and ad and cookie-banner removal.
 - **start free.** 750 credits a month, no credit card.
